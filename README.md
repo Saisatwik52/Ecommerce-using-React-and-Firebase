@@ -1,8 +1,32 @@
-# React + Vite
+# 🛒 E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website built with **React**, **Vite**, and **Firebase**, featuring product browsing, user authentication, and real-time cart management.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to view the deployed project](https://ecommerce-using-react-and-firebase-wtnj.vercel.app/)
+
+## ⚙️ Tech Stack
+
+- ⚛️ React + Vite
+- 🔥 Firebase (Authentication, Firestore)
+- 💅 Tailwind CSS / CSS Modules *(if used)*
+- 🌐 Deployed on Vercel
+
+## ✨ Features
+
+- 🔐 User Authentication (Sign In / Sign Up)
+- 🛍️ Product Catalog
+- 🛒 Shopping Cart with Realtime Updates
+- 💳 Checkout Summary
+- 📦 Data storage with Firebase Firestore
+
+## 📦 Setup Instructions
+
+To run locally:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
